@@ -12,7 +12,7 @@ Users can start a new game, get help/instructions, or exit from the home screen.
 - Real-time scoring for Player and CPU.
 - Countdown timer for player moves.
 - Special "Dinosaur" player theme.
-- Dynamic results (Win, Tie animations).
+- Dynamic results (Win, Lose, and Draw animations).
 
 **User Interface:**
 
