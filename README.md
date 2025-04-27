@@ -15,6 +15,7 @@ Users can start a new game, get help/instructions, or exit from the home screen.
 - Dynamic results (Win, Tie animations).
 
 **User Interface:**
+
 ![Screenshots](screenshots/home.png)
 ![Screenshots](screenshots/rules.png)
 ![Screenshots](screenshots/game.png)
