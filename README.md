@@ -41,4 +41,5 @@ Users can start a new game, get help/instructions, or exit from the home screen.
 
 
 **License:**
+
 This project is licensed under the MIT License
