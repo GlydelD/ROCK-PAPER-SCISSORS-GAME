@@ -1,4 +1,4 @@
-Rock-Paper-Scissors Game (Java Swing)
+**Rock-Paper-Scissors Game (Java Swing)**
 
 This is a **Rock-Paper-Scissors** desktop game built with 
 **Java Swing**.  
