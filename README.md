@@ -23,7 +23,7 @@ Users can start a new game, get help/instructions, or exit from the home screen.
 ![Screenshots](screenshots/exit_yes.png)
 
 
-**Technologies**
+**Technologies:**
 - Java (JDK 8+)
 - Java Swing (GUI)
 - Java AWT (Graphics)
