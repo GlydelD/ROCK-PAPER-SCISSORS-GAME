@@ -14,6 +14,8 @@ Users can start a new game, get help/instructions, or exit from the home screen.
 - Special "Dinosaur" player theme.
 - Dynamic results (Win, Tie animations).
 
+![Screenshots](screenshots/home.png)
+
 **Technologies**
 - Java (JDK 8+)
 - Java Swing (GUI)
