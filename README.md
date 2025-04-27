@@ -39,3 +39,6 @@ Users can start a new game, get help/instructions, or exit from the home screen.
 - All images must be placed inside the `imgNew/` folder.
 - Make sure sound and image paths are correct relative to your project.
 
+
+**License:**
+This project is licensed under the MIT License
